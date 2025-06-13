@@ -23,4 +23,4 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 - WSL
 
 ### Autor ✒️
-Simón Nanjarí - Desarrollador principal, Diseño y documentación, Pruebas y calidad
+Deivis Cortes - Desarrollador principal, Diseño y documentación, Pruebas y calidad
