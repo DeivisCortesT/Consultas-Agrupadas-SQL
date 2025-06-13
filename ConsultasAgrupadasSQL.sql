@@ -1,5 +1,5 @@
 -- Crear base de datos --
-CREATE DATABASE desafio2-simon_nanjari-123;
+CREATE DATABASE Deivis_Cortes;
 CREATE DATABASE
 
 --Crear tabla --
